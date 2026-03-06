@@ -1,14 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Fek%20Sta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<!-- HEADER -->
 
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Moeketsi Fekefeke</h1>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=FekSta">
-    <img src="https://komarev.com/ghpvc/?username=FekSta&label=Profile%20views&color=a371f7&style=flat-square" alt="Profile views" />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=FekSta&label=Profile%20Views&color=7c3aed&style=flat-square"
+    alt="Profile views"
+  />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<br/>
 
 ---
+
+<!-- ABOUT ME -->
 
 ## 👤 About Me
 
@@ -36,73 +40,83 @@ I'm a **2nd-year Information Technology undergraduate** based in Vereeniging, fo
 
 ---
 
-## 🛠️ Languages & Tools
+<!-- TECH STACK -->
 
-**Programming Languages**
+## 🛠️ Tech Stack
+
+**Languages**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=ts,py,java,cpp,cs" alt="TypeScript, Python, Java, C++, C#" />
 </p>
 
 **Frontend**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS, Tailwind" />
 </p>
 
 **Backend**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,spring" alt="Node.js, Flask, Spring Boot" />
 </p>
 
 **Databases**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />
 </p>
 
-**Tools & DevOps**
+**DevOps & Tools**
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman" alt="Git, Docker, Figma, Postman" />
 </p>
+
+<br/>
 
 ---
+
+<!-- GITHUB STATS -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FekSta&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&show_icons=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=FekSta&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+  <img
+    height="170em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=FekSta&show_icons=true&layout=compact&bg_color=00000000&title_color=a371f7&text_color=808080&icon_color=a371f7&border_color=a371f740&border_radius=10&cache_seconds=7200"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="170em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FekSta&langs_count=8&layout=compact&bg_color=00000000&title_color=a371f7&text_color=808080&border_color=a371f740&border_radius=10&cache_seconds=7200"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FekSta&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Chamidu0423&background=00000000&currStreakLabel=a371f7&sideLabels=808080&currStreakNum=a371f7&dates=808080&border=a371f740&ring=a371f7&fire=f97316&cache_seconds=86400"
+    alt="GitHub Streak"
+    width="58%"
+  />
 </p>
-
-
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=FekSta&theme=tokyonight&radius=10" alt="Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FekSta&bg_color=00000000&color=a371f7&line=7c3aed&point=a371f7&area=true&area_color=a371f720&hide_border=true&radius=6"
+    alt="Activity Graph"
+    width="100%"
+  />
 </p>
 
 
+<br/>
 
 ---
 
+<!-- FOOTER -->
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
-</div>
+
+<p align="center">
+  <sub>Built with focus. Always improving.</sub>
+</p>
+

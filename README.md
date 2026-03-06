@@ -91,9 +91,7 @@ I'm a **2nd-year Information Technology undergraduate** based in Vereeniging, fo
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FekSta&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=FekSta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
+
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=FekSta&theme=tokyonight&radius=10" alt="Activity Graph" />
@@ -103,11 +101,7 @@ I'm a **2nd-year Information Technology undergraduate** based in Vereeniging, fo
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 174px !important;" />
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />

@@ -93,7 +93,7 @@ I'm a **2nd-year Information Technology undergraduate** based in Vereeniging, fo
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Chamidu0423&background=00000000&currStreakLabel=a371f7&sideLabels=808080&currStreakNum=a371f7&dates=808080&border=a371f740&ring=a371f7&fire=f97316&cache_seconds=86400"
+    src="https://streak-stats.demolab.com/?user=FekSta&background=00000000&currStreakLabel=a371f7&sideLabels=808080&currStreakNum=a371f7&dates=808080&border=a371f740&ring=a371f7&fire=f97316&cache_seconds=86400"
     alt="GitHub Streak"
     width="58%"
   />

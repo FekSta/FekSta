@@ -16,9 +16,9 @@
 
 ## 👤 About Me
 
-I'm a **2nd-year Information Technology undergraduate** based in Vereeniging, focused on building robust, scalable backend systems. I'm driven by a genuine interest in low-level programming, systems design, and writing software that performs well under real-world constraints. Currently working toward a career as a **Backend / Systems Engineer**.
+I'm a **Information Technology undergraduate** based in Vereeniging, focused on building robust, scalable backend systems. I'm driven by a genuine interest in low-level programming, systems design, and writing software that performs well under real-world constraints. Currently working toward a career as a **Backend / Systems Engineer**.
 
-- 🎓 BSc Information Technology — 2nd Year
+- 🎓 BSc Information Technology
 - 🌏 Based in  Vereeniging, Gauteng, South Africa
 - 🔧 Focused on systems programming, backend architecture, and performance-oriented development
 - 🌱 Currently expanding into **DevOps** and **Machine Learning / AI**
